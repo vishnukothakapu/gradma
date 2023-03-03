@@ -1,0 +1,412 @@
+body {
+    font-family: 'Jost', sans-serif;
+}
+
+#title {
+    background: #6d67e4;
+}
+
+.container-fluid {
+    padding: 2% 10% 9%;
+}
+
+h1 {
+    font-family: 'Jost', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    color: #fff;
+}
+
+button.navbar-toggler.collapsed {
+    color: transparent;
+}
+
+span.navbar-toggler-icon {
+    color: #fff;
+}
+
+h3 {
+    font-family: 'Jost', sans-serif;
+    font-weight: 600;
+}
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.navbar-brand {
+    font-family: 'Jost', sans-serif;
+    font-size: 2.5rem;
+    color: #fff;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: 'Jost', sans-serif;
+    font-weight: 400;
+    color: #fff;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+.title-image {
+    width: 60%;
+    transform: scale(2.2);
+    margin: 100px 0 0 80px;
+}
+
+.demo,
+.link {
+    color: #6d67e4;
+}
+
+.demo:hover,
+.link:hover {
+    color: #252525;
+    background: #f5f6f7;
+}
+
+.download-btn {
+    margin: 5% 3% 5% 0;
+}
+
+#analytics {
+    padding: 7% 15%;
+    background-color: #fff;
+}
+
+.feature-box {
+    text-align: center;
+    border: 2px solid #fff;
+    padding: 4.5%;
+    margin-top: 30px;
+    border-radius: 0.5rem;
+    margin-left: auto;
+    margin-right: auto;
+    background: #fff;
+}
+
+.icon {
+    color: #6d67e4;
+    margin-bottom: 1rem;
+    font-size: 2rem;
+}
+
+h2 {
+    font-family: 'Jost', sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+    line-height: 1.5;
+}
+
+#features {
+    padding: 7% 15%;
+    background: #fff;
+}
+
+.card1 .icon {
+    color: #f7b731;
+}
+
+.card2 .icon {
+    color: #bae8ac;
+}
+
+.card3 .icon {
+    color: #5281ce;
+}
+
+.instructorHeader {
+    color: #1d1d1d;
+    font-size: 2.5rem;
+}
+
+.benefits1 {
+    background: #1cd1a1;
+    color: #fff;
+}
+
+.benefits2 {
+    background: #ee5353;
+    color: #fff;
+}
+
+.benefits3 {
+    background: #54a0ff;
+    color: #fff;
+}
+
+.benefits p {
+    text-align: center;
+    font-size: 0.8rem;
+}
+
+.benefits4 {
+    background: #ff9f43;
+    color: #fff;
+}
+
+.benefits-text {
+    text-align: center;
+}
+
+#instructorPage p {
+    text-align: left;
+}
+
+#coursesPage {
+    padding: 7% 15%;
+    background: #fff;
+}
+
+#coursesPage h4 {
+    font-size: 2rem;
+    text-align: center;
+}
+
+#coursesPage p {
+    text-align: left;
+}
+
+#coursesPage .headerP {
+    text-align: center;
+}
+
+.instructor-image {
+    border-radius: 52% 48% 35% 65% / 56% 54% 46% 44%;
+    background: #6d67e4;
+    overflow: hidden;
+    width: 100%;
+}
+
+.courses h5 {
+    font-family: 'Jost', sans-serif;
+}
+
+.courses p {
+    font-family: 'DM Sans', sans-serif;
+}
+
+.courses {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card {
+    border: none;
+}
+
+#benefits {
+    padding: 5% 15%;
+}
+
+.card a {
+    background: #6d67e4;
+    color: #fff;
+}
+
+.butn {
+    background: #6d67e4;
+    color: #fff;
+}
+
+#instructorPage {
+    padding: 7% 15%;
+}
+
+#testimonials {
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #6d67e4;
+    color: #fff;
+}
+
+#testimonials h3 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+strong {
+    background: #fff;
+    color: #6d67e4;
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 0px 5px;
+}
+
+#testimonials em {
+    font-family: 'DM Sans', sans-serif;
+}
+
+.testimonials-img {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#benefits h4,
+p {
+    text-align: center;
+}
+
+#contact {
+    padding: 7% 15%;
+}
+
+.list-group-item i {
+    color: #6d67e4;
+}
+
+.list-group-item {
+    border: none;
+}
+
+#contact button {
+    background: #6d67e4;
+    color: #fff;
+}
+
+#contact h3,
+p {
+    text-align: center;
+}
+
+#footer {
+    padding: 3% 15%;
+    background: #252525;
+}
+
+#footer h2 {
+    color: #fff;
+}
+
+#footer p {
+    font-size: 1rem;
+    text-align: left;
+}
+
+.social-icon {
+    margin: 10px 10px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.twitter:hover {
+    color: #00acee;
+}
+
+.insta:hover {
+    color: #dd2a7b;
+}
+
+.fb:hover {
+    color: #1778f2;
+}
+
+#footer h5 {
+    color: #fff;
+    text-align: center;
+}
+
+#footer .list-group-item {
+    background: transparent;
+    color: #fff;
+    text-align: center;
+}
+
+#footer .copyright {
+    text-align: center;
+}
+
+@media (max-width:1000px) {
+    .title-header {
+        text-align: center;
+        font-size: 2rem;
+    }
+    #testimonials span {
+        font-size: 0.8rem;
+    }
+    .download-btn {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .navContent {
+        text-align: left;
+    }
+    .navDemo {
+        margin-left: 15px;
+        margin-top: 5px;
+    }
+    .container-fluid {
+        padding: 2% 12% 9%;
+    }
+    #title {
+        text-align: center;
+    }
+    .head {
+        font-size: 2rem;
+        text-align: center;
+    }
+    .title-image {
+        display: grid;
+        place-items: center;
+        margin: 30px 0 0 10px;
+        width: 60%;
+        transform: scale(1.6);
+    }
+    .feature-image {
+        margin-left: auto;
+        display: block;
+        width: 100%;
+        margin-right: auto;
+    }
+    .courses {
+        margin-top: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .instructor-image {
+        width: 90%;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    #instructorPage p {
+        text-align: center;
+    }
+    .benefits-text {
+        font-size: 1.5rem;
+        text-align: center;
+    }
+    .testimonial-text {
+        font-size: 1rem;
+        text-align: center;
+    }
+    strong {
+        background: transparent;
+        padding: 0;
+        color: #fff;
+    }
+    #footer {
+        text-align: center;
+    }
+    #footer p {
+        text-align: center;
+    }
+    .none {
+        display: none;
+    }
+}
